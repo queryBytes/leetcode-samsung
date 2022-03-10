@@ -1,0 +1,1 @@
+// make the XOR of all the segment equal to zero`

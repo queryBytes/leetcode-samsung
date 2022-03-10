@@ -1,0 +1,10 @@
+Recursion [comes from priciple of mathematical induction]
+STL
+Number Theory
+Dynamic programming
+Tree
+
+
+NOTE: take part in longest contest and get good rank to put in RESUME.
+
+//ctrl+p to search file in vscode

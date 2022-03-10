@@ -1,0 +1,3 @@
+Recursion: Recursion is programming techinque where any function call itself again and again to solve same subproblem with a extra memory buffer.
+Backtracking: It's is an algorithm that tries to find a solution to a given parameters. It builds the subproblem recursively & abondons those which
+        can't fulfil the condition.
